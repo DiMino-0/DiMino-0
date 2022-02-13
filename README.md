@@ -1,4 +1,4 @@
-### Hi there 👋
+### What's up👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiMino-0&count_private=true&theme=radical&show_icons=true)](https://jdimino.dev)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DiMino-0&repo=Rapid-React-2022&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
