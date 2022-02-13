@@ -11,6 +11,10 @@
 ### Languages & Tools :hammer_and_wrench:
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&Color=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&Color=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&Color=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&Color=white&color=2bbc8a)
+
 
 <!--
 **DiMino-0/DiMino-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
