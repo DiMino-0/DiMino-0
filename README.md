@@ -1,10 +1,10 @@
 ### About me👋
+
 Freshman comp sci major at NP
 
 ### Github Stats :test_tube:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiMino-0&count_private=true&theme=radical&show_icons=true)](https://jdimino.dev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiMino-0&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Currently Working On 🖋️
 
@@ -15,6 +15,10 @@ Freshman comp sci major at NP
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Javascript&Color=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&Color=white&color=2bbc8a)
 ![](https://img.shields.io/badge/WebDesign-HTML/CSS/Express-informational?style=flat&logo=web&Color=white&color=2bbc8a)
+
+### 🌱 I’m currently learning 🪴
+
+Algorithims
 
 <!--
 **DiMino-0/DiMino-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
