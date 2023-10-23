@@ -1,5 +1,5 @@
 ### About me👋
-Student developer from Smithtown on the Science Olympiad and Robotics team.   
+Freshman comp sci major at NP
 
 ### Github Stats :test_tube:
 
