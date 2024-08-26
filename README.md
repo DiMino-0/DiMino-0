@@ -18,7 +18,6 @@ Sophmore comp sci major at NP, class 27'
 
 ### 🌱 I’m currently learning 🪴
 
-Algorithims
 
 <!--
 **DiMino-0/DiMino-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
