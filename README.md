@@ -4,7 +4,7 @@ Sophmore comp sci major at NP, class 27'
 
 ### Github Stats :test_tube:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiMino-0&count_private=true&theme=radical&show_icons=true)](https://jdimino.dev)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiMino-0&count_private=true&theme=radical&show_icons=true)]
 
 ### Currently Working On 🖋️
 
