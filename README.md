@@ -1,6 +1,6 @@
 ### About me👋
 
-Freshman comp sci major at NP
+Sophmore comp sci major at NP, class 27'
 
 ### Github Stats :test_tube:
 
