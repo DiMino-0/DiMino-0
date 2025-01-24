@@ -15,6 +15,3 @@ A factorial calculator.
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Javascript&Color=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&Color=white&color=2bbc8a)
 ![](https://img.shields.io/badge/WebDesign-HTML/CSS/Express-informational?style=flat&logo=web&Color=white&color=2bbc8a)
-
-### 🌱 I’m currently learning 🪴
-Top-Down Programming. 
