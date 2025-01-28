@@ -2,12 +2,9 @@
 
 Sophmore comp sci major business analyst minor at NP, class 27'!
 
-### Github Stats :test_tube:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiMino-0&count_private=true&theme=radical&show_icons=true)]
-
 ### Currently Working On 🖋️
 Web Programming and R.  
+
 ### Languages & Tools :hammer_and_wrench:
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&Color=white&color=2bbc8a)
