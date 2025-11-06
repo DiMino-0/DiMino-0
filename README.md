@@ -2,7 +2,7 @@
 Computer Science Major with a minor in Business Analytics at SUNY NP, class 27'!
 
 ### Currently Working On 🖋️
-Web Programming and R.  
+Python and data visualization  
 
 ### Languages & Tools :hammer_and_wrench:
 
